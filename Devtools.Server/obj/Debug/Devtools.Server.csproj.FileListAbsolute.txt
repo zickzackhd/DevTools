@@ -1,0 +1,2 @@
+C:\Users\lukic\Desktop\DevTools-master\Devtools.Server\obj\Debug\Devtools.Server.csprojAssemblyReference.cache
+C:\Users\lukic\Desktop\DevTools-master\Devtools.Server\obj\Debug\Devtools.Server.csproj.CoreCompileInputs.cache
